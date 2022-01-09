@@ -11,13 +11,13 @@ We have used Google Colab Notebook to initialize the PySpark environment, read t
   
   - How many Vine reviews and non-Vine reviews were there?
   
-  ![](C:\Users\Fahad.Rehman\Desktop\UW DataBootcamp\Amazon_Vine_Analysis\vine_reviews.PNG)                                     ![](C:\Users\Fahad.Rehman\Desktop\UW DataBootcamp\Amazon_Vine_Analysis\non_vine_reviews.PNG)
+  ![](/vine_reviews.PNG)                                     ![](/non_vine_reviews.PNG)
   
   
   
   - How many Vine reviews were 5 stars? How many non-Vine reviews were 5 stars?
   
-  ![](C:\Users\Fahad.Rehman\Desktop\UW DataBootcamp\Amazon_Vine_Analysis\five_stars_review.PNG)
+  ![](/five_stars_review.PNG)
   
   
   
@@ -25,7 +25,7 @@ We have used Google Colab Notebook to initialize the PySpark environment, read t
   
   - What percentage of Vine reviews were 5 stars? What percentage of non-Vine reviews were 5 stars?
   
-  ![](C:\Users\Fahad.Rehman\Desktop\UW DataBootcamp\Amazon_Vine_Analysis\five_stars_review_percent.PNG)
+  ![](/five_stars_review_percent.PNG)
   
   ### Summary:
   
